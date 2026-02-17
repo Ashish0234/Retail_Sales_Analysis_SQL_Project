@@ -128,12 +128,12 @@ This analysis helps understand peak business hours.
 
 ## Key Business Insights
 
-✔ Identified top-performing categories
-✔ Detected high-value customers
-✔ Found best-selling months
-✔ Analyzed gender-based purchasing patterns
-✔ Determined peak business hours
-✔ Measured customer engagement by category
+* Identified top-performing categories
+* Detected high-value customers
+* Found best-selling months
+* Analyzed gender-based purchasing patterns
+* Determined peak business hours
+* Measured customer engagement by category
 
 These insights can help in:
 
